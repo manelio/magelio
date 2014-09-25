@@ -1,0 +1,31 @@
+src/Mio_Promotions/
+  
+  modman
+
+  app/etc/modules/
+    Mio_Promotions.xml
+
+  app/code/community/Mio/Promotions/
+    Model/
+      Rewrite/
+        SalesRule/
+          Rule/Condition/Product.php
+
+      Observer/
+        Quote.php
+        Cart.php
+        SalesRule.php
+
+    Block/
+      Rewrite/
+        Checkout/
+          Cart/Sidebar.php
+    Helper/
+      Data.php
+      
+  js/mio/
+    promotions.js
+
+  skin/frontend/base/default/css/mio/
+    promotions.css
+

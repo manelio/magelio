@@ -1,0 +1,4 @@
+.phpcomplete_extended/
+composer.phar
+vendor/
+
