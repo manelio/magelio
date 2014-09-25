@@ -2,7 +2,7 @@
 
 A set of utilities to work with Magento more easily.
 
-Also a console application to import and export structural data (categories, attributes, attribute values) between Magento versions. Buy by now I prefer not to push the dirty code :).
+Also a console application to import and export structural data (categories, attributes, attribute values) between Magento versions. But by now I prefer not to push the dirty code :).
 
 ## Utilities for Magento
 
