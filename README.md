@@ -11,7 +11,7 @@ Also a console application to import and export structural data (categories, att
 It's annoying for me to create files and directories in most of the editor I 
 use, like Sublime Text and Vim. Also in the shell.
 
-Because that, I wrote a minimal parser called treendent for intend-based files 
+Because that, I wrote a minimal parser called treendent for indent-based files 
 to design a filesystem tree. There are versions of the parser in php (treendent.php) 
 and ruby (treendent.rb).
 
